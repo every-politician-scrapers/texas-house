@@ -4,15 +4,20 @@
 require 'every_politician_scraper/wikidata_query'
 
 query = <<SPARQL
-  SELECT (STRAFTER(STR(?member), STR(wd:)) AS ?item) ?name ?gender
-     ?dob ?dobPrecision
+  SELECT (STRAFTER(STR(?member), STR(wd:)) AS ?item)
+     ?name ?enLabel ?gender ?dob ?dobPrecision ?source
      (STRAFTER(STR(?ps), '/statement/') AS ?psid)
   WHERE {
     ?member p:P39 ?ps .
     ?ps ps:P39 wd:Q18604553 ; pq:P2937 wd:Q104767030 .
     FILTER NOT EXISTS { ?ps pq:P582 ?end }
 
-    OPTIONAL { ?ps prov:wasDerivedFrom/pr:P1810 ?sourceName }
+    OPTIONAL {
+      ?ps prov:wasDerivedFrom ?ref .
+      ?ref pr:P854 ?source .
+      FILTER CONTAINS(STR(?source), 'house.texas.gov') .
+      OPTIONAL { ?ref pr:P1810 ?sourceName }
+    }
     OPTIONAL { ?member rdfs:label ?enLabel FILTER(LANG(?enLabel) = "en") }
     BIND(COALESCE(?sourceName, ?enLabel) AS ?name)
 
@@ -26,7 +31,7 @@ query = <<SPARQL
       ?genderItem rdfs:label ?gender
     }
   }
-  ORDER BY ?name
+  ORDER BY STR(?name)
 SPARQL
 
 agent = 'every-politican-scrapers/texas-house'
