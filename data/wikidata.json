@@ -1,0 +1,2541 @@
+{
+  "body": {
+    "id": "Q827550",
+    "name": "Texas House of Representatives",
+    "term": {
+      "id": "Q104767030",
+      "name": "87th Texas Legislature",
+      "members": [
+        {
+          "name": "Abel Herrero",
+          "gender": "male",
+          "birth_date": "1969-10-29",
+          "identifiers": [
+            {
+              "identifier": "Q16205383",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Alex Dominguez",
+          "gender": "male",
+          "birth_date": "1970-12-06",
+          "identifiers": [
+            {
+              "identifier": "Q84196020",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Alma A. Allen",
+          "gender": "female",
+          "birth_date": "1939-04-07",
+          "identifiers": [
+            {
+              "identifier": "Q20675849",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Alma Allen",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Ana Hernandez",
+          "gender": "female",
+          "birth_date": "1978-08-25",
+          "identifiers": [
+            {
+              "identifier": "Q4750367",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Ana-Maria Ramos",
+          "gender": "female",
+          "birth_date": "1966-06-16",
+          "identifiers": [
+            {
+              "identifier": "Q99869264",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Andrew Murr",
+          "gender": "male",
+          "birth_date": "1977-04-23",
+          "identifiers": [
+            {
+              "identifier": "Q18630753",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Angie Chen Button",
+          "gender": "female",
+          "birth_date": "1954-02-09",
+          "identifiers": [
+            {
+              "identifier": "Q16186167",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Ann Johnson",
+          "gender": "female",
+          "birth_date": "1974-08-13",
+          "identifiers": [
+            {
+              "identifier": "Q101168868",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Armando \"Mando\" Martinez",
+          "gender": "male",
+          "birth_date": "1976-01-06",
+          "identifiers": [
+            {
+              "identifier": "Q16732068",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Armando Martinez",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Armando Walle",
+          "gender": "male",
+          "birth_date": "1978-03-07",
+          "identifiers": [
+            {
+              "identifier": "Q4792849",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Art Fierro",
+          "gender": "male",
+          "identifiers": [
+            {
+              "identifier": "Q79686165",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Barbara Gervin-Hawkins",
+          "gender": "female",
+          "birth_date": "1954-04-03",
+          "identifiers": [
+            {
+              "identifier": "Q28228796",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Ben Leman",
+          "gender": "male",
+          "birth_date": "1961-09-08",
+          "identifiers": [
+            {
+              "identifier": "Q62081676",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Bobby Guerra",
+          "gender": "male",
+          "birth_date": "1953",
+          "identifiers": [
+            {
+              "identifier": "Q28069583",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Robert Guerra",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Brad Buckley",
+          "gender": "male",
+          "birth_date": "1966-09-14",
+          "identifiers": [
+            {
+              "identifier": "Q86259391",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Briscoe Cain",
+          "gender": "male",
+          "birth_date": "1984-12",
+          "identifiers": [
+            {
+              "identifier": "Q28314483",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Brooks Landgraf",
+          "gender": "male",
+          "birth_date": "1981-03-15",
+          "identifiers": [
+            {
+              "identifier": "Q16731214",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Bryan Slaton",
+          "gender": "male",
+          "birth_date": "1978-02-02",
+          "identifiers": [
+            {
+              "identifier": "Q102027445",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Candy Noble",
+          "gender": "female",
+          "birth_date": "1982-06-10",
+          "identifiers": [
+            {
+              "identifier": "Q61993395",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Carl Sr. Sherman",
+          "gender": "male",
+          "birth_date": "1966-06-13",
+          "identifiers": [
+            {
+              "identifier": "Q96735472",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Carl Sherman",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Cecil Bell",
+          "gender": "male",
+          "birth_date": "1962-05-17",
+          "identifiers": [
+            {
+              "identifier": "Q16194430",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Cecil Bell Jr.",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Celia Israel",
+          "gender": "female",
+          "birth_date": "1964-07-15",
+          "identifiers": [
+            {
+              "identifier": "Q16730078",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Charles \"Doc\" Anderson",
+          "gender": "male",
+          "birth_date": "1945-06-29",
+          "identifiers": [
+            {
+              "identifier": "Q5075116",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Charles Anderson",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Charlie Geren",
+          "gender": "male",
+          "birth_date": "1949-10-22",
+          "identifiers": [
+            {
+              "identifier": "Q16136108",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Chris Paddie",
+          "gender": "male",
+          "birth_date": "1974-02-18",
+          "identifiers": [
+            {
+              "identifier": "Q16215040",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Chris Turner",
+          "gender": "male",
+          "birth_date": "1972-10-10",
+          "identifiers": [
+            {
+              "identifier": "Q17099547",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Christina Morales",
+          "gender": "female",
+          "birth_date": "1968-04-13",
+          "identifiers": [
+            {
+              "identifier": "Q79585993",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Claudia Ordaz Perez",
+          "gender": "female",
+          "birth_date": "1986-09-13",
+          "identifiers": [
+            {
+              "identifier": "Q105090898",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Cody Harris",
+          "gender": "male",
+          "birth_date": "1983-08-16",
+          "identifiers": [
+            {
+              "identifier": "Q61761679",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Cody Vasut",
+          "gender": "male",
+          "birth_date": "1987-08-13",
+          "identifiers": [
+            {
+              "identifier": "Q105076855",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Cole Hefner",
+          "gender": "male",
+          "birth_date": "1980-11-13",
+          "identifiers": [
+            {
+              "identifier": "Q28137188",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Craig Goldman",
+          "gender": "male",
+          "birth_date": "1968-10-03",
+          "identifiers": [
+            {
+              "identifier": "Q16199453",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Dade Phelan",
+          "gender": "male",
+          "birth_date": "1975-09-18",
+          "identifiers": [
+            {
+              "identifier": "Q18630886",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Dan Huberty",
+          "gender": "male",
+          "birth_date": "1968-06-21",
+          "identifiers": [
+            {
+              "identifier": "Q16199607",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "David Cook",
+          "gender": "male",
+          "birth_date": "1971-07-05",
+          "identifiers": [
+            {
+              "identifier": "Q106521637",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "David Spiller",
+          "gender": "male",
+          "birth_date": "1961-02-04",
+          "identifiers": [
+            {
+              "identifier": "Q106945709",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "DeWayne Burns",
+          "gender": "male",
+          "birth_date": "1972-06-22",
+          "identifiers": [
+            {
+              "identifier": "Q18630748",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Dennis Paul",
+          "gender": "male",
+          "birth_date": "1961",
+          "identifiers": [
+            {
+              "identifier": "Q18630880",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Diego M. Bernal",
+          "gender": "male",
+          "birth_date": "1976-10-19",
+          "identifiers": [
+            {
+              "identifier": "Q28131644",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Diego Bernal",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Donna Howard",
+          "gender": "female",
+          "birth_date": "1951-10-25",
+          "identifiers": [
+            {
+              "identifier": "Q5296366",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Drew Darby",
+          "gender": "male",
+          "birth_date": "1947-02-22",
+          "identifiers": [
+            {
+              "identifier": "Q16114453",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Dustin Burrows",
+          "gender": "male",
+          "birth_date": "1978-11-14",
+          "identifiers": [
+            {
+              "identifier": "Q18630788",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Ed Thompson",
+          "gender": "male",
+          "birth_date": "1950-11-24",
+          "identifiers": [
+            {
+              "identifier": "Q107616167",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Eddie Lucio III",
+          "gender": "male",
+          "birth_date": "1978-12-19",
+          "identifiers": [
+            {
+              "identifier": "Q5336252",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Eddie Morales",
+          "gender": "male",
+          "birth_date": "1975-01-24",
+          "identifiers": [
+            {
+              "identifier": "Q105203959",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Eddie Rodriguez",
+          "gender": "male",
+          "birth_date": "1971-07-01",
+          "identifiers": [
+            {
+              "identifier": "Q16213733",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Elizabeth \"Liz\" Campos",
+          "gender": "female",
+          "birth_date": "1969-05-08",
+          "identifiers": [
+            {
+              "identifier": "Q106811985",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Elizabeth Campos",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Erin Zwiener",
+          "gender": "female",
+          "birth_date": "1985-09-22",
+          "identifiers": [
+            {
+              "identifier": "Q58494748",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Ernest Bailes",
+          "gender": "male",
+          "birth_date": "1982-04-13",
+          "identifiers": [
+            {
+              "identifier": "Q28314487",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Evelina \"Lina\" Ortega",
+          "gender": "female",
+          "birth_date": "1955-08-18",
+          "identifiers": [
+            {
+              "identifier": "Q28420152",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Evelina Ortega",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Four Price",
+          "gender": "male",
+          "birth_date": "1967-10-08",
+          "identifiers": [
+            {
+              "identifier": "Q5475443",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Garnet F. Coleman",
+          "gender": "male",
+          "birth_date": "1961-09-08",
+          "identifiers": [
+            {
+              "identifier": "Q5523643",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Garnet Coleman",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Gary Gates",
+          "gender": "male",
+          "birth_date": "1959-07-22",
+          "identifiers": [
+            {
+              "identifier": "Q83933437",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Gary VanDeaver",
+          "gender": "male",
+          "birth_date": "1958-09-25",
+          "identifiers": [
+            {
+              "identifier": "Q18630923",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Geanie W. Morrison",
+          "gender": "female",
+          "birth_date": "1950-10-06",
+          "identifiers": [
+            {
+              "identifier": "Q16145565",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Geanie Morrison",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Gene Wu",
+          "gender": "male",
+          "birth_date": "1978-03-23",
+          "identifiers": [
+            {
+              "identifier": "Q17091672",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Gina Hinojosa",
+          "gender": "female",
+          "birth_date": "1973-12-08",
+          "identifiers": [
+            {
+              "identifier": "Q28314533",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Giovanni Capriglione",
+          "gender": "male",
+          "birth_date": "1973-03-08",
+          "identifiers": [
+            {
+              "identifier": "Q16214362",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Glenn Rogers",
+          "gender": "male",
+          "birth_date": "1956-01-24",
+          "identifiers": [
+            {
+              "identifier": "Q105085431",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Greg Bonnen",
+          "gender": "male",
+          "birth_date": "1966",
+          "identifiers": [
+            {
+              "identifier": "Q16196379",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Harold V. Dutton Jr.",
+          "gender": "male",
+          "birth_date": "1945-02-17",
+          "identifiers": [
+            {
+              "identifier": "Q28151630",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Harold Dutton Jr.",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Hubert Vo",
+          "gender": "male",
+          "birth_date": "1956-05-30",
+          "identifiers": [
+            {
+              "identifier": "Q5927657",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Hugh Shine",
+          "gender": "male",
+          "birth_date": "1952-07-27",
+          "identifiers": [
+            {
+              "identifier": "Q28420153",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Ina Minjarez",
+          "gender": "female",
+          "birth_date": "1975-03-27",
+          "identifiers": [
+            {
+              "identifier": "Q28137189",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "J. M. Lozano",
+          "gender": "male",
+          "birth_date": "1980-05-23",
+          "identifiers": [
+            {
+              "identifier": "Q16221037",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Jacey Jetton",
+          "gender": "male",
+          "birth_date": "1983-09-14",
+          "identifiers": [
+            {
+              "identifier": "Q105410582",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Jake Ellzey",
+          "gender": "male",
+          "birth_date": "1970-01-24",
+          "identifiers": [
+            {
+              "identifier": "Q105061782",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "James Frank",
+          "gender": "male",
+          "birth_date": "1967",
+          "identifiers": [
+            {
+              "identifier": "Q16196941",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "James Talarico",
+          "gender": "male",
+          "birth_date": "1989-05-17",
+          "identifiers": [
+            {
+              "identifier": "Q100742942",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "James White",
+          "gender": "male",
+          "birth_date": "1964-07-16",
+          "identifiers": [
+            {
+              "identifier": "Q6145421",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Jared Patterson",
+          "gender": "male",
+          "birth_date": "1983-04-01",
+          "identifiers": [
+            {
+              "identifier": "Q88385976",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Jarvis Johnson",
+          "gender": "male",
+          "birth_date": "1971-09-27",
+          "identifiers": [
+            {
+              "identifier": "Q6161239",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Jasmine Crockett",
+          "gender": "female",
+          "birth_date": "1981-03-29",
+          "identifiers": [
+            {
+              "identifier": "Q101428652",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Jay Dean",
+          "gender": "male",
+          "birth_date": "1953-03-05",
+          "identifiers": [
+            {
+              "identifier": "Q28204482",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Jeff Cason",
+          "gender": "male",
+          "birth_date": "1953-04-10",
+          "identifiers": [
+            {
+              "identifier": "Q106716123",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Jeff Leach",
+          "gender": "male",
+          "birth_date": "1982-06-10",
+          "identifiers": [
+            {
+              "identifier": "Q16221860",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Jessica González",
+          "gender": "female",
+          "birth_date": "1980-12-25",
+          "identifiers": [
+            {
+              "identifier": "Q84459974",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Jim Murphy",
+          "gender": "male",
+          "birth_date": "1957-12-08",
+          "identifiers": [
+            {
+              "identifier": "Q16189412",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Joe Deshotel",
+          "gender": "male",
+          "birth_date": "1951-12-03",
+          "identifiers": [
+            {
+              "identifier": "Q16148412",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Joe Moody",
+          "gender": "male",
+          "birth_date": "1981-01-09",
+          "identifiers": [
+            {
+              "identifier": "Q16732801",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "John Frullo",
+          "gender": "male",
+          "birth_date": "1944-03-27",
+          "identifiers": [
+            {
+              "identifier": "Q89290225",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "John III Bucy",
+          "gender": "male",
+          "birth_date": "1984-06-26",
+          "identifiers": [
+            {
+              "identifier": "Q64853230",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "John Bucy III",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "John Kuempel",
+          "gender": "male",
+          "birth_date": "1970-05-11",
+          "identifiers": [
+            {
+              "identifier": "Q105320151",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "John P. Cyrier",
+          "gender": "male",
+          "identifiers": [
+            {
+              "identifier": "Q105657358",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "John Cyrier",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "John Raney",
+          "gender": "male",
+          "birth_date": "1947-04-04",
+          "identifiers": [
+            {
+              "identifier": "Q16116477",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "John N. Raney",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "John T. Smithee",
+          "gender": "male",
+          "birth_date": "1951-09-07",
+          "identifiers": [
+            {
+              "identifier": "Q6260110",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "John Turner",
+          "gender": "male",
+          "birth_date": "1974-11-12",
+          "identifiers": [
+            {
+              "identifier": "Q60734920",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Jon Rosenthal",
+          "gender": "male",
+          "birth_date": "1963-08-17",
+          "identifiers": [
+            {
+              "identifier": "Q66309757",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Julie Johnson",
+          "gender": "female",
+          "birth_date": "1966-05-02",
+          "identifiers": [
+            {
+              "identifier": "Q64753063",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Justin Holland",
+          "gender": "male",
+          "birth_date": "1984-03-15",
+          "identifiers": [
+            {
+              "identifier": "Q28421987",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Keith Bell",
+          "gender": "male",
+          "birth_date": "1962-06-22",
+          "identifiers": [
+            {
+              "identifier": "Q60736832",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Ken King",
+          "gender": "male",
+          "birth_date": "1971-12-28",
+          "identifiers": [
+            {
+              "identifier": "Q6387951",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Kyle Biedermann",
+          "gender": "male",
+          "birth_date": "1959-04-30",
+          "identifiers": [
+            {
+              "identifier": "Q24284048",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Kyle Kacal",
+          "gender": "male",
+          "birth_date": "1969-12-26",
+          "identifiers": [
+            {
+              "identifier": "Q16205641",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Lacey Hull",
+          "gender": "female",
+          "birth_date": "1986-08-21",
+          "identifiers": [
+            {
+              "identifier": "Q106423151",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Leo Pacheco",
+          "gender": "male",
+          "identifiers": [
+            {
+              "identifier": "Q95027655",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Lyle Larson",
+          "gender": "male",
+          "birth_date": "1959-03-25",
+          "identifiers": [
+            {
+              "identifier": "Q16193205",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Lynn Stucky",
+          "gender": "female",
+          "birth_date": "1958-02-20",
+          "identifiers": [
+            {
+              "identifier": "Q28370253",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Mary Ann Perez",
+          "gender": "female",
+          "birth_date": "1962",
+          "identifiers": [
+            {
+              "identifier": "Q16734396",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Mary González",
+          "gender": "female",
+          "birth_date": "1983-10-30",
+          "identifiers": [
+            {
+              "identifier": "Q6779652",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Matt Krause",
+          "gender": "male",
+          "birth_date": "1980-08-19",
+          "identifiers": [
+            {
+              "identifier": "Q16221007",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Matt Schaefer",
+          "gender": "male",
+          "birth_date": "1976-02-11",
+          "identifiers": [
+            {
+              "identifier": "Q16216069",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Matt Shaheen",
+          "gender": "male",
+          "birth_date": "1965",
+          "identifiers": [
+            {
+              "identifier": "Q18630904",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Mayes Middleton",
+          "gender": "male",
+          "birth_date": "1981-09-18",
+          "identifiers": [
+            {
+              "identifier": "Q79585969",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Michelle Beckley",
+          "gender": "female",
+          "birth_date": "1969-11-28",
+          "identifiers": [
+            {
+              "identifier": "Q64010060",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Mike Schofield",
+          "gender": "male",
+          "birth_date": "1969",
+          "identifiers": [
+            {
+              "identifier": "Q18739889",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Morgan Meyer",
+          "gender": "male",
+          "birth_date": "1974-08-08",
+          "identifiers": [
+            {
+              "identifier": "Q18630864",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Nicole Collier",
+          "gender": "female",
+          "birth_date": "1972-09-12",
+          "identifiers": [
+            {
+              "identifier": "Q16728145",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Oscar Longoria",
+          "gender": "male",
+          "birth_date": "1981-10-02",
+          "identifiers": [
+            {
+              "identifier": "Q16731610",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Penny Morales Shaw",
+          "gender": "female",
+          "birth_date": "1966-03-17",
+          "identifiers": [
+            {
+              "identifier": "Q105097108",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Phil King",
+          "gender": "male",
+          "birth_date": "1956-02-29",
+          "identifiers": [
+            {
+              "identifier": "Q7182085",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Phil Stephenson",
+          "gender": "male",
+          "birth_date": "1952-02-02",
+          "identifiers": [
+            {
+              "identifier": "Q16107144",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Philip Cortez",
+          "gender": "male",
+          "birth_date": "1978-07-07",
+          "identifiers": [
+            {
+              "identifier": "Q16217238",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Rafael Anchía",
+          "gender": "male",
+          "birth_date": "1968-09-26",
+          "identifiers": [
+            {
+              "identifier": "Q7282021",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Rafael Anchia",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Ramon Jr. Romero",
+          "gender": "male",
+          "birth_date": "1975-07-15",
+          "identifiers": [
+            {
+              "identifier": "Q28086347",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Ramon Romero Jr.",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Ray Lopez",
+          "gender": "male",
+          "birth_date": "1949",
+          "identifiers": [
+            {
+              "identifier": "Q100178804",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Reggie Smith",
+          "gender": "male",
+          "birth_date": "1969-02-04",
+          "identifiers": [
+            {
+              "identifier": "Q80386812",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Rhetta Bowers",
+          "gender": "female",
+          "birth_date": "1967-07-22",
+          "identifiers": [
+            {
+              "identifier": "Q91351094",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Richard Peña Raymond",
+          "gender": "male",
+          "birth_date": "1960-10-27",
+          "identifiers": [
+            {
+              "identifier": "Q7328610",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Richard Raymond",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Ron Reynolds",
+          "gender": "male",
+          "birth_date": "1973",
+          "identifiers": [
+            {
+              "identifier": "Q18630894",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Ryan Guillen",
+          "gender": "male",
+          "birth_date": "1977-10-27",
+          "identifiers": [
+            {
+              "identifier": "Q7384107",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Sam Harless",
+          "gender": "male",
+          "birth_date": "1962-07-13",
+          "identifiers": [
+            {
+              "identifier": "Q79593762",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Scott Sanford",
+          "gender": "male",
+          "birth_date": "1963",
+          "identifiers": [
+            {
+              "identifier": "Q16195314",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Senfronia Thompson",
+          "gender": "female",
+          "birth_date": "1939-01-01",
+          "identifiers": [
+            {
+              "identifier": "Q7450514",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Sergio Jr. Muñoz",
+          "gender": "male",
+          "birth_date": "1982-03-05",
+          "identifiers": [
+            {
+              "identifier": "Q16733005",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Sergio Munoz",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Shawn Thierry",
+          "gender": "male",
+          "birth_date": "1969-08-06",
+          "identifiers": [
+            {
+              "identifier": "Q28420154",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Shelby Slawson",
+          "gender": "female",
+          "birth_date": "1977-05-03",
+          "identifiers": [
+            {
+              "identifier": "Q101048006",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Sheryl Cole",
+          "gender": "female",
+          "birth_date": "1964-08-16",
+          "identifiers": [
+            {
+              "identifier": "Q84202665",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Stan Lambert",
+          "gender": "male",
+          "birth_date": "1952-12-21",
+          "identifiers": [
+            {
+              "identifier": "Q28314515",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Stephanie Klick",
+          "gender": "female",
+          "birth_date": "1956-08-19",
+          "identifiers": [
+            {
+              "identifier": "Q16187156",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Steve Allison",
+          "gender": "male",
+          "birth_date": "1947-01-04",
+          "identifiers": [
+            {
+              "identifier": "Q80281918",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Steve Toth",
+          "gender": "male",
+          "birth_date": "1960-11-29",
+          "identifiers": [
+            {
+              "identifier": "Q16193904",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Tan Parker",
+          "gender": "male",
+          "birth_date": "1971-05-22",
+          "identifiers": [
+            {
+              "identifier": "Q7682098",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Terry Canales",
+          "gender": "male",
+          "birth_date": "1979-01-01",
+          "identifiers": [
+            {
+              "identifier": "Q16218399",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Terry Wilson",
+          "gender": "male",
+          "birth_date": "1964",
+          "identifiers": [
+            {
+              "identifier": "Q28421988",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Thresa \"Terry\" Meza",
+          "gender": "female",
+          "birth_date": "1949",
+          "identifiers": [
+            {
+              "identifier": "Q98156958",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Terry Meza",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Todd Hunter",
+          "gender": "male",
+          "birth_date": "1953-08-26",
+          "identifiers": [
+            {
+              "identifier": "Q7812245",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Todd Ames Hunter",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Tom Craddick",
+          "gender": "male",
+          "birth_date": "1943-09-19",
+          "identifiers": [
+            {
+              "identifier": "Q7815444",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Tom Oliverson",
+          "gender": "male",
+          "birth_date": "1972",
+          "identifiers": [
+            {
+              "identifier": "Q28228777",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Toni Rose",
+          "gender": "female",
+          "birth_date": "1968-02-03",
+          "identifiers": [
+            {
+              "identifier": "Q28094414",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Tony Tinderholt",
+          "gender": "male",
+          "birth_date": "1970-08-13",
+          "identifiers": [
+            {
+              "identifier": "Q18738637",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Tracy O. King",
+          "gender": "male",
+          "birth_date": "1960-11-09",
+          "identifiers": [
+            {
+              "identifier": "Q7831775",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Tracy King",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Travis Clardy",
+          "gender": "male",
+          "birth_date": "1962-01-13",
+          "identifiers": [
+            {
+              "identifier": "Q16194480",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Trent Ashby",
+          "gender": "male",
+          "birth_date": "1972-10-09",
+          "identifiers": [
+            {
+              "identifier": "Q16149153",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Trey Martinez Fischer",
+          "gender": "male",
+          "birth_date": "1970-06-05",
+          "identifiers": [
+            {
+              "identifier": "Q7839605",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Valoree Swanson",
+          "gender": "female",
+          "birth_date": "1957-09-22",
+          "identifiers": [
+            {
+              "identifier": "Q28228784",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Victoria Neave",
+          "gender": "female",
+          "birth_date": "1980-12-29",
+          "identifiers": [
+            {
+              "identifier": "Q28204567",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Vikki Goodwin",
+          "gender": "female",
+          "birth_date": "1967-05-18",
+          "identifiers": [
+            {
+              "identifier": "Q88693641",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Will Metcalf",
+          "gender": "male",
+          "birth_date": "1984-06-06",
+          "identifiers": [
+            {
+              "identifier": "Q18630862",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        },
+        {
+          "name": "Yvonne Davis",
+          "gender": "female",
+          "birth_date": "1955-02-04",
+          "identifiers": [
+            {
+              "identifier": "Q8062437",
+              "scheme": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://house.texas.gov/members/"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
