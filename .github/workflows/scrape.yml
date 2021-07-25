@@ -2,7 +2,7 @@ name: Scrape latest data
 
 on:
   schedule:
-    - cron:  '14 2 * * *'
+    - cron:  '14 7 * * *'
 
 jobs:
   scheduled:
@@ -22,7 +22,7 @@ jobs:
     - name: Generate diff
       run: bundle exec ruby bin/diff.rb | tee data/diff.csv
     - name: Get current wikipedia list
-      run: bundle exec ruby bin/scraper/wikipedia.rb | tee data/wikipedia.csv
+      run: bundle exec ruby bin/scraper/wikipedia.rb | ifne tee data/wikipedia.csv
     - name: Commit and push changed data
       run: |-
         git config user.name "Automated"
